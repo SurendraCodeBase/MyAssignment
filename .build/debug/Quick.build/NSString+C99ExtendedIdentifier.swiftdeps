@@ -1,0 +1,407 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo8NSString", ""]
+- ["CSo8NSString", "c99ExtendedIdentifier"]
+provides-dynamic-lookup:
+- "c99ExtendedIdentifier"
+depends-top-level:
+- "CharacterSet"
+- "NSString"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- !private "UnicodeScalarType"
+depends-member:
+- ["Ps9AnyObject", "CharacterSet"]
+- !private ["Ps9AnyObject", "NSString"]
+- !private ["Ps9AnyObject", "components"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "invalidCharacters"]
+- !private ["Ps9AnyObject", "isEmpty"]
+- !private ["Sa", "joined"]
+- !private ["Ps23BidirectionalCollection", "joined"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Ps7CVarArg", "CharacterSet"]
+- !private ["Ps7CVarArg", "NSString"]
+- !private ["Ps7CVarArg", "components"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "invalidCharacters"]
+- !private ["Ps7CVarArg", "isEmpty"]
+- !private ["Ps7CVarArg", "joined"]
+- ["V10Foundation12CharacterSet", "controlCharacters"]
+- ["V10Foundation12CharacterSet", "formUnion"]
+- ["V10Foundation12CharacterSet", "illegalCharacters"]
+- ["V10Foundation12CharacterSet", "init"]
+- ["V10Foundation12CharacterSet", "nonBaseCharacters"]
+- ["V10Foundation12CharacterSet", "punctuationCharacters"]
+- ["V10Foundation12CharacterSet", "symbols"]
+- ["V10Foundation12CharacterSet", "whitespacesAndNewlines"]
+- !private ["Ps10Collection", "joined"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "isEmpty"]
+- ["Ps28CustomDebugStringConvertible", "CharacterSet"]
+- !private ["Ps28CustomDebugStringConvertible", "NSString"]
+- !private ["Ps28CustomDebugStringConvertible", "components"]
+- ["Ps28CustomDebugStringConvertible", "controlCharacters"]
+- ["Ps28CustomDebugStringConvertible", "formUnion"]
+- ["Ps28CustomDebugStringConvertible", "illegalCharacters"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "invalidCharacters"]
+- !private ["Ps28CustomDebugStringConvertible", "isEmpty"]
+- !private ["Ps28CustomDebugStringConvertible", "joined"]
+- ["Ps28CustomDebugStringConvertible", "nonBaseCharacters"]
+- ["Ps28CustomDebugStringConvertible", "punctuationCharacters"]
+- ["Ps28CustomDebugStringConvertible", "symbols"]
+- ["Ps28CustomDebugStringConvertible", "whitespacesAndNewlines"]
+- ["Ps29CustomPlaygroundQuickLookable", "CharacterSet"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "NSString"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "components"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "invalidCharacters"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "isEmpty"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "isEmpty"]
+- !private ["Ps17CustomReflectable", "joined"]
+- ["Ps23CustomStringConvertible", "CharacterSet"]
+- !private ["Ps23CustomStringConvertible", "NSString"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "components"]
+- ["Ps23CustomStringConvertible", "controlCharacters"]
+- ["Ps23CustomStringConvertible", "formUnion"]
+- ["Ps23CustomStringConvertible", "illegalCharacters"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "invalidCharacters"]
+- !private ["Ps23CustomStringConvertible", "isEmpty"]
+- !private ["Ps23CustomStringConvertible", "joined"]
+- ["Ps23CustomStringConvertible", "nonBaseCharacters"]
+- ["Ps23CustomStringConvertible", "punctuationCharacters"]
+- ["Ps23CustomStringConvertible", "symbols"]
+- ["Ps23CustomStringConvertible", "whitespacesAndNewlines"]
+- ["Ps9Equatable", "CharacterSet"]
+- !private ["Ps9Equatable", "NSString"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "components"]
+- ["Ps9Equatable", "controlCharacters"]
+- ["Ps9Equatable", "formUnion"]
+- ["Ps9Equatable", "illegalCharacters"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "invalidCharacters"]
+- !private ["Ps9Equatable", "isEmpty"]
+- ["Ps9Equatable", "nonBaseCharacters"]
+- ["Ps9Equatable", "punctuationCharacters"]
+- ["Ps9Equatable", "symbols"]
+- ["Ps9Equatable", "whitespacesAndNewlines"]
+- ["Ps25ExpressibleByArrayLiteral", "controlCharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "formUnion"]
+- ["Ps25ExpressibleByArrayLiteral", "illegalCharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "joined"]
+- ["Ps25ExpressibleByArrayLiteral", "nonBaseCharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "punctuationCharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "symbols"]
+- ["Ps25ExpressibleByArrayLiteral", "whitespacesAndNewlines"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "CharacterSet"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "NSString"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "components"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "invalidCharacters"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "isEmpty"]
+- ["Ps26ExpressibleByStringLiteral", "CharacterSet"]
+- !private ["Ps26ExpressibleByStringLiteral", "NSString"]
+- !private ["Ps26ExpressibleByStringLiteral", "components"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "invalidCharacters"]
+- !private ["Ps26ExpressibleByStringLiteral", "isEmpty"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "CharacterSet"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "NSString"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "components"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "invalidCharacters"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "isEmpty"]
+- ["Ps8Hashable", "CharacterSet"]
+- !private ["Ps8Hashable", "NSString"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "components"]
+- ["Ps8Hashable", "controlCharacters"]
+- ["Ps8Hashable", "formUnion"]
+- ["Ps8Hashable", "illegalCharacters"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "invalidCharacters"]
+- !private ["Ps8Hashable", "isEmpty"]
+- ["Ps8Hashable", "nonBaseCharacters"]
+- ["Ps8Hashable", "punctuationCharacters"]
+- ["Ps8Hashable", "symbols"]
+- ["Ps8Hashable", "whitespacesAndNewlines"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "isEmpty"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps10MirrorPath", "isEmpty"]
+- !private ["Ps17MutableCollection", "joined"]
+- ["PSo8NSCoding", "CharacterSet"]
+- !private ["PSo8NSCoding", "NSString"]
+- !private ["PSo8NSCoding", "components"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "invalidCharacters"]
+- !private ["PSo8NSCoding", "isEmpty"]
+- ["PSo9NSCopying", "CharacterSet"]
+- !private ["PSo9NSCopying", "NSString"]
+- !private ["PSo9NSCopying", "components"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "invalidCharacters"]
+- !private ["PSo9NSCopying", "isEmpty"]
+- ["PSo16NSMutableCopying", "CharacterSet"]
+- !private ["PSo16NSMutableCopying", "NSString"]
+- !private ["PSo16NSMutableCopying", "components"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSMutableCopying", "invalidCharacters"]
+- !private ["PSo16NSMutableCopying", "isEmpty"]
+- ["CSo8NSObject", "CharacterSet"]
+- !private ["CSo8NSObject", "NSString"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "c99ExtendedIdentifier"]
+- !private ["CSo8NSObject", "components"]
+- ["CSo8NSObject", "invalidCharacters"]
+- !private ["CSo8NSObject", "isEmpty"]
+- ["PSo16NSObjectProtocol", "CharacterSet"]
+- !private ["PSo16NSObjectProtocol", "NSString"]
+- !private ["PSo16NSObjectProtocol", "components"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "invalidCharacters"]
+- !private ["PSo16NSObjectProtocol", "isEmpty"]
+- ["PSo19NSPasteboardReading", "CharacterSet"]
+- !private ["PSo19NSPasteboardReading", "NSString"]
+- !private ["PSo19NSPasteboardReading", "components"]
+- !private ["PSo19NSPasteboardReading", "init"]
+- !private ["PSo19NSPasteboardReading", "invalidCharacters"]
+- !private ["PSo19NSPasteboardReading", "isEmpty"]
+- ["PSo19NSPasteboardWriting", "CharacterSet"]
+- !private ["PSo19NSPasteboardWriting", "NSString"]
+- !private ["PSo19NSPasteboardWriting", "components"]
+- !private ["PSo19NSPasteboardWriting", "init"]
+- !private ["PSo19NSPasteboardWriting", "invalidCharacters"]
+- !private ["PSo19NSPasteboardWriting", "isEmpty"]
+- ["PSo14NSSecureCoding", "CharacterSet"]
+- !private ["PSo14NSSecureCoding", "NSString"]
+- !private ["PSo14NSSecureCoding", "components"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "invalidCharacters"]
+- !private ["PSo14NSSecureCoding", "isEmpty"]
+- ["CSo8NSString", "CharacterSet"]
+- !private ["CSo8NSString", "NSString"]
+- ["CSo8NSString", "String"]
+- ["CSo8NSString", "c99ExtendedIdentifier"]
+- !private ["CSo8NSString", "components"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo8NSString", "invalidCharacters"]
+- !private ["CSo8NSString", "isEmpty"]
+- !private ["Ps22RandomAccessCollection", "joined"]
+- !private ["Ps26RangeReplaceableCollection", "joined"]
+- ["P10Foundation20ReferenceConvertible", "controlCharacters"]
+- ["P10Foundation20ReferenceConvertible", "formUnion"]
+- ["P10Foundation20ReferenceConvertible", "illegalCharacters"]
+- ["P10Foundation20ReferenceConvertible", "init"]
+- ["P10Foundation20ReferenceConvertible", "nonBaseCharacters"]
+- ["P10Foundation20ReferenceConvertible", "punctuationCharacters"]
+- ["P10Foundation20ReferenceConvertible", "symbols"]
+- ["P10Foundation20ReferenceConvertible", "whitespacesAndNewlines"]
+- !private ["Ps8Sequence", "joined"]
+- ["Ps10SetAlgebra", "controlCharacters"]
+- ["Ps10SetAlgebra", "formUnion"]
+- ["Ps10SetAlgebra", "illegalCharacters"]
+- ["Ps10SetAlgebra", "init"]
+- ["Ps10SetAlgebra", "nonBaseCharacters"]
+- ["Ps10SetAlgebra", "punctuationCharacters"]
+- ["Ps10SetAlgebra", "symbols"]
+- ["Ps10SetAlgebra", "whitespacesAndNewlines"]
+- !private ["SS", "init"]
+- !private ["SS", "isEmpty"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps16TextOutputStream", "isEmpty"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps20TextOutputStreamable", "isEmpty"]
+- !private ["Ps14_ArrayProtocol", "joined"]
+- !private ["Ps23_BidirectionalIndexable", "joined"]
+- !private ["Ps24_DestructorSafeContainer", "joined"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "isEmpty"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "isEmpty"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "isEmpty"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "isEmpty"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "isEmpty"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "CharacterSet"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "NSString"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "components"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "invalidCharacters"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "isEmpty"]
+- ["Ps9_Hashable", "CharacterSet"]
+- !private ["Ps9_Hashable", "NSString"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "components"]
+- ["Ps9_Hashable", "controlCharacters"]
+- ["Ps9_Hashable", "formUnion"]
+- ["Ps9_Hashable", "illegalCharacters"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "invalidCharacters"]
+- !private ["Ps9_Hashable", "isEmpty"]
+- ["Ps9_Hashable", "nonBaseCharacters"]
+- ["Ps9_Hashable", "punctuationCharacters"]
+- ["Ps9_Hashable", "symbols"]
+- ["Ps9_Hashable", "whitespacesAndNewlines"]
+- !private ["Ps10_Indexable", "joined"]
+- !private ["Ps14_IndexableBase", "joined"]
+- !private ["Ps17_MutableIndexable", "joined"]
+- ["P10Foundation18_MutablePairBoxing", "controlCharacters"]
+- ["P10Foundation18_MutablePairBoxing", "formUnion"]
+- ["P10Foundation18_MutablePairBoxing", "illegalCharacters"]
+- ["P10Foundation18_MutablePairBoxing", "init"]
+- ["P10Foundation18_MutablePairBoxing", "nonBaseCharacters"]
+- ["P10Foundation18_MutablePairBoxing", "punctuationCharacters"]
+- ["P10Foundation18_MutablePairBoxing", "symbols"]
+- ["P10Foundation18_MutablePairBoxing", "whitespacesAndNewlines"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "controlCharacters"]
+- ["Ps21_ObjectiveCBridgeable", "formUnion"]
+- ["Ps21_ObjectiveCBridgeable", "illegalCharacters"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "isEmpty"]
+- !private ["Ps21_ObjectiveCBridgeable", "joined"]
+- ["Ps21_ObjectiveCBridgeable", "nonBaseCharacters"]
+- ["Ps21_ObjectiveCBridgeable", "punctuationCharacters"]
+- ["Ps21_ObjectiveCBridgeable", "symbols"]
+- ["Ps21_ObjectiveCBridgeable", "whitespacesAndNewlines"]
+- !private ["Ps22_RandomAccessIndexable", "joined"]
+- !private ["Ps26_RangeReplaceableIndexable", "joined"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- "Ps7CVarArg"
+- "V10Foundation12CharacterSet"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo19NSPasteboardReading"
+- "PSo19NSPasteboardWriting"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- "P10Foundation20ReferenceConvertible"
+- !private "Ps8Sequence"
+- "Ps10SetAlgebra"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- "P10Foundation18_MutablePairBoxing"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUISiriService.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/QuickSpecBase/include/QuickSpecBase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTKVOExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSPredicateExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTDarwinNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTWaiter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/QuickSpecBase.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+interface-hash: "aed9f4925c828432d7b6806c824337d1"

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/master.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day10Tests.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day10Tests.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day10Tests.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day10Tests~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day10Tests.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day1Tests.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day1Tests.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day1Tests.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day1Tests~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day1Tests.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day4Tests.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day4Tests.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day4Tests.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day4Tests~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/AppleTests.build/day4Tests.swiftdeps"
+  }
+}

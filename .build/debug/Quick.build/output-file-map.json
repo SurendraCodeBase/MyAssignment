@@ -1,0 +1,143 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/master.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Behavior.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Behavior.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Behavior.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Behavior~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Behavior.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Callsite.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Callsite.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Callsite.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Callsite~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Callsite.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/ErrorUtility.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ErrorUtility.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ErrorUtility.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ErrorUtility~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ErrorUtility.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Example.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Example.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Example.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Example~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Example.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/ExampleGroup.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleGroup.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleGroup.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleGroup.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/ExampleMetadata.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleMetadata.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleMetadata.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleMetadata.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Filter.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Filter.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Filter.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Filter.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/NSBundle+CurrentTestBundle.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSBundle+CurrentTestBundle.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSBundle+CurrentTestBundle.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSBundle+CurrentTestBundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSBundle+CurrentTestBundle.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/NSString+C99ExtendedIdentifier.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSString+C99ExtendedIdentifier.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSString+C99ExtendedIdentifier.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSString+C99ExtendedIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/NSString+C99ExtendedIdentifier.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/QuickMain.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickMain.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickMain.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickMain~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickMain.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/QuickSelectedTestSuiteBuilder.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSelectedTestSuiteBuilder.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSelectedTestSuiteBuilder.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSelectedTestSuiteBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSelectedTestSuiteBuilder.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/QuickSpec.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSpec.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSpec.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSpec~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickSpec.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/QuickTestSuite.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickTestSuite.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickTestSuite.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickTestSuite~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickTestSuite.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/URL+FileName.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/URL+FileName.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/URL+FileName.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/URL+FileName~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/URL+FileName.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/World.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Configuration/Configuration.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Configuration.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Configuration/Configuration.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Configuration.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Configuration/QuickConfiguration.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickConfiguration.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Configuration/QuickConfiguration.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/QuickConfiguration.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/DSL/DSL.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/DSL.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/DSL/DSL.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/DSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/DSL.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/DSL/World+DSL.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World+DSL.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/DSL/World+DSL.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World+DSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/World+DSL.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Hooks/Closures.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Closures.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Hooks/Closures.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Closures~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Closures.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Hooks/ExampleHooks.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleHooks.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Hooks/ExampleHooks.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleHooks~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/ExampleHooks.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Hooks/HooksPhase.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/HooksPhase.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Hooks/HooksPhase.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/HooksPhase~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/HooksPhase.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/Quick/Hooks/SuiteHooks.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/SuiteHooks.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/Hooks/SuiteHooks.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/SuiteHooks~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.build/SuiteHooks.swiftdeps"
+  }
+}

@@ -1,0 +1,381 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "day4Tests"
+provides-nominal:
+- "C10AppleTests9day4Tests"
+provides-member:
+- ["C10AppleTests9day4Tests", ""]
+provides-dynamic-lookup:
+- "spec"
+depends-top-level:
+- !private "+="
+- !private "=="
+- "BooleanLiteralType"
+- "ExtendedGraphemeClusterType"
+- "QuickSpec"
+- !private "Sector"
+- !private "String"
+- !private "StringLiteralType"
+- "UnicodeScalarType"
+- "day4Tests"
+- !private "describe"
+- !private "expect"
+- !private "it"
+depends-member:
+- !private ["Ps9AnyObject", "Sector"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "characters"]
+- !private ["Ps9AnyObject", "contains"]
+- !private ["Ps9AnyObject", "describe"]
+- !private ["Ps9AnyObject", "expect"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "it"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23BidirectionalCollection", "split"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "Sector"]
+- !private ["Ps7CVarArg", "String"]
+- !private ["Ps7CVarArg", "characters"]
+- !private ["Ps7CVarArg", "contains"]
+- !private ["Ps7CVarArg", "describe"]
+- !private ["Ps7CVarArg", "expect"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "it"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "init"]
+- !private ["VSS13CharacterView", "split"]
+- !private ["Ps10Collection", "split"]
+- !private ["Ps10Comparable", "characters"]
+- !private ["Ps10Comparable", "contains"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Sector"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "characters"]
+- !private ["Ps28CustomDebugStringConvertible", "contains"]
+- !private ["Ps28CustomDebugStringConvertible", "describe"]
+- !private ["Ps28CustomDebugStringConvertible", "expect"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "it"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "characters"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "contains"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "characters"]
+- !private ["Ps17CustomReflectable", "contains"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Sector"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "characters"]
+- !private ["Ps23CustomStringConvertible", "contains"]
+- !private ["Ps23CustomStringConvertible", "describe"]
+- !private ["Ps23CustomStringConvertible", "expect"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "it"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "Sector"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "characters"]
+- !private ["Ps9Equatable", "contains"]
+- !private ["Ps9Equatable", "describe"]
+- !private ["Ps9Equatable", "expect"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "it"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "characters"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "contains"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "characters"]
+- !private ["Ps26ExpressibleByStringLiteral", "contains"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "characters"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "contains"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "Sector"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "characters"]
+- !private ["Ps8Hashable", "contains"]
+- !private ["Ps8Hashable", "describe"]
+- !private ["Ps8Hashable", "expect"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "it"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "characters"]
+- !private ["Ps25LosslessStringConvertible", "contains"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "characters"]
+- !private ["Ps10MirrorPath", "contains"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["P6Nimble13NMBComparable", "characters"]
+- !private ["P6Nimble13NMBComparable", "contains"]
+- !private ["P6Nimble13NMBComparable", "init"]
+- !private ["PSo8NSCoding", "characters"]
+- !private ["PSo8NSCoding", "contains"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "characters"]
+- !private ["PSo9NSCopying", "contains"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "characters"]
+- !private ["PSo16NSMutableCopying", "contains"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "Sector"]
+- !private ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "characters"]
+- !private ["CSo8NSObject", "contains"]
+- !private ["CSo8NSObject", "describe"]
+- !private ["CSo8NSObject", "expect"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "it"]
+- ["CSo8NSObject", "spec"]
+- !private ["PSo16NSObjectProtocol", "Sector"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- !private ["PSo16NSObjectProtocol", "characters"]
+- !private ["PSo16NSObjectProtocol", "contains"]
+- !private ["PSo16NSObjectProtocol", "describe"]
+- !private ["PSo16NSObjectProtocol", "expect"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "it"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo19NSPasteboardReading", "characters"]
+- !private ["PSo19NSPasteboardReading", "contains"]
+- !private ["PSo19NSPasteboardReading", "init"]
+- !private ["PSo19NSPasteboardWriting", "characters"]
+- !private ["PSo19NSPasteboardWriting", "contains"]
+- !private ["PSo19NSPasteboardWriting", "init"]
+- !private ["PSo14NSSecureCoding", "characters"]
+- !private ["PSo14NSSecureCoding", "contains"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "characters"]
+- !private ["CSo8NSString", "contains"]
+- !private ["CSo8NSString", "init"]
+- !private ["C5Quick9QuickSpec", "Sector"]
+- !private ["C5Quick9QuickSpec", "String"]
+- !private ["C5Quick9QuickSpec", "describe"]
+- !private ["C5Quick9QuickSpec", "expect"]
+- ["C5Quick9QuickSpec", "init"]
+- !private ["C5Quick9QuickSpec", "it"]
+- ["C5Quick9QuickSpec", "spec"]
+- ["C5Quick9QuickSpec", ""]
+- !private ["Ps26RangeReplaceableCollection", "split"]
+- !private ["V5Apple6Sector", "decrypt"]
+- !private ["V5Apple6Sector", "id"]
+- !private ["V5Apple6Sector", "init"]
+- !private ["V5Apple6Sector", "valid"]
+- !private ["Ps8Sequence", "split"]
+- !private ["Vs12StaticString", "init"]
+- !private ["SS", "characters"]
+- !private ["SS", "contains"]
+- !private ["SS", "init"]
+- !private ["P6Nimble27TestOutputStringConvertible", "characters"]
+- !private ["P6Nimble27TestOutputStringConvertible", "contains"]
+- !private ["P6Nimble27TestOutputStringConvertible", "init"]
+- !private ["Ps16TextOutputStream", "characters"]
+- !private ["Ps16TextOutputStream", "contains"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "characters"]
+- !private ["Ps20TextOutputStreamable", "contains"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo17XCTWaiterDelegate", "Sector"]
+- !private ["PSo17XCTWaiterDelegate", "String"]
+- !private ["PSo17XCTWaiterDelegate", "describe"]
+- !private ["PSo17XCTWaiterDelegate", "expect"]
+- !private ["PSo17XCTWaiterDelegate", "init"]
+- !private ["PSo17XCTWaiterDelegate", "it"]
+- ["PSo17XCTWaiterDelegate", ""]
+- !private ["CSo6XCTest", "Sector"]
+- !private ["CSo6XCTest", "String"]
+- !private ["CSo6XCTest", "describe"]
+- !private ["CSo6XCTest", "expect"]
+- ["CSo6XCTest", "init"]
+- !private ["CSo6XCTest", "it"]
+- ["CSo6XCTest", "spec"]
+- !private ["CSo10XCTestCase", "Sector"]
+- !private ["CSo10XCTestCase", "String"]
+- !private ["CSo10XCTestCase", "describe"]
+- !private ["CSo10XCTestCase", "expect"]
+- ["CSo10XCTestCase", "init"]
+- !private ["CSo10XCTestCase", "it"]
+- ["CSo10XCTestCase", "spec"]
+- !private ["Ps23_BidirectionalIndexable", "split"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "characters"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "contains"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "characters"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "contains"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "characters"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "contains"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "characters"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "contains"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "characters"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "contains"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "characters"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "contains"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Sector"]
+- !private ["Ps9_Hashable", "String"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "characters"]
+- !private ["Ps9_Hashable", "contains"]
+- !private ["Ps9_Hashable", "describe"]
+- !private ["Ps9_Hashable", "expect"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "it"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "split"]
+- !private ["Ps14_IndexableBase", "split"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "characters"]
+- !private ["Ps21_ObjectiveCBridgeable", "contains"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["CSo14_QuickSpecBase", "Sector"]
+- !private ["CSo14_QuickSpecBase", "String"]
+- !private ["CSo14_QuickSpecBase", "describe"]
+- !private ["CSo14_QuickSpecBase", "expect"]
+- ["CSo14_QuickSpecBase", "init"]
+- !private ["CSo14_QuickSpecBase", "it"]
+- ["CSo14_QuickSpecBase", "spec"]
+- !private ["Ps26_RangeReplaceableIndexable", "split"]
+- !private ["C10AppleTests9day4Tests", "Sector"]
+- !private ["C10AppleTests9day4Tests", "String"]
+- ["C10AppleTests9day4Tests", "deinit"]
+- !private ["C10AppleTests9day4Tests", "describe"]
+- !private ["C10AppleTests9day4Tests", "expect"]
+- ["C10AppleTests9day4Tests", "init"]
+- !private ["C10AppleTests9day4Tests", "it"]
+- ["C10AppleTests9day4Tests", "spec"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- !private "VSS13CharacterView"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "P6Nimble13NMBComparable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo19NSPasteboardReading"
+- !private "PSo19NSPasteboardWriting"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "C5Quick9QuickSpec"
+- !private "Ps26RangeReplaceableCollection"
+- !private "V5Apple6Sector"
+- !private "Ps8Sequence"
+- !private "Vs12StaticString"
+- !private "SS"
+- !private "P6Nimble27TestOutputStringConvertible"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo17XCTWaiterDelegate"
+- "CSo6XCTest"
+- "CSo10XCTestCase"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps21_ObjectiveCBridgeable"
+- "CSo14_QuickSpecBase"
+- !private "Ps26_RangeReplaceableIndexable"
+- "C10AppleTests9day4Tests"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Nimble.swiftmodule"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Quick.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUISiriService.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/QuickSpecBase/include/QuickSpecBase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTKVOExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSPredicateExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTDarwinNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTWaiter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/QuickSpecBase.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+interface-hash: "163698ea8f5e8558ea00f67e79c3720a"

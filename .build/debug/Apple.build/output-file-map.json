@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/master.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/BalanceBot.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/BalanceBot.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/BalanceBot.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/BalanceBot~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/BalanceBot.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Bot.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Bot.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Bot.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Bot~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Bot.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Direction.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Direction.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Direction.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Direction~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Direction.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Sector.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Sector.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Sector.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Sector~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Sector.swiftdeps"
+  },
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Taxicab.swift": {
+    "dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Taxicab.d",
+    "object": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Taxicab.swift.o",
+    "swiftmodule": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Taxicab~partial.swiftmodule",
+    "swift-dependencies": "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/Apple.build/Taxicab.swiftdeps"
+  }
+}

@@ -1,0 +1,328 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "QuickConfigurer"
+- "ExampleFilter"
+- "Configuration"
+provides-nominal:
+- "C5Quick13Configuration"
+provides-member:
+- ["C5Quick13Configuration", ""]
+provides-dynamic-lookup:
+- "afterEach"
+- "afterSuite"
+- "beforeEach"
+- "beforeSuite"
+- "exclude"
+- "include"
+- "runAllWhenEverythingFiltered"
+depends-top-level:
+- "AfterExampleClosure"
+- "AfterExampleWithMetadataClosure"
+- "AfterSuiteClosure"
+- "BeforeExampleClosure"
+- "BeforeExampleWithMetadataClosure"
+- "BeforeSuiteClosure"
+- "Bool"
+- "BooleanLiteralType"
+- "Configuration"
+- "Example"
+- "ExampleFilter"
+- "ExampleHooks"
+- "Filter"
+- "NSObject"
+- "QuickConfigurer"
+- "SuiteHooks"
+- "Void"
+depends-member:
+- ["Ps9AnyObject", "ExampleHooks"]
+- ["Ps9AnyObject", "Filter"]
+- ["Ps9AnyObject", "SuiteHooks"]
+- !private ["Ps9AnyObject", "appendAfter"]
+- !private ["Ps9AnyObject", "appendBefore"]
+- !private ["Ps9AnyObject", "exampleHooks"]
+- !private ["Ps9AnyObject", "exclusionFilters"]
+- ["Ps9AnyObject", "filterFlags"]
+- ["Ps9AnyObject", "focused"]
+- !private ["Ps9AnyObject", "inclusionFilters"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "pending"]
+- !private ["Ps9AnyObject", "suiteHooks"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- ["Ps7CVarArg", "ExampleHooks"]
+- ["Ps7CVarArg", "Filter"]
+- ["Ps7CVarArg", "SuiteHooks"]
+- !private ["Ps7CVarArg", "append"]
+- !private ["Ps7CVarArg", "exampleHooks"]
+- !private ["Ps7CVarArg", "exclusionFilters"]
+- ["Ps7CVarArg", "filterFlags"]
+- ["Ps7CVarArg", "focused"]
+- !private ["Ps7CVarArg", "inclusionFilters"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "pending"]
+- ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "suiteHooks"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "append"]
+- ["Ps10Collection", "subscript"]
+- ["C5Quick13Configuration", "AfterExampleClosure"]
+- ["C5Quick13Configuration", "AfterExampleWithMetadataClosure"]
+- ["C5Quick13Configuration", "AfterSuiteClosure"]
+- ["C5Quick13Configuration", "BeforeExampleClosure"]
+- ["C5Quick13Configuration", "BeforeExampleWithMetadataClosure"]
+- ["C5Quick13Configuration", "BeforeSuiteClosure"]
+- ["C5Quick13Configuration", "ExampleFilter"]
+- ["C5Quick13Configuration", "ExampleHooks"]
+- ["C5Quick13Configuration", "Filter"]
+- ["C5Quick13Configuration", "SuiteHooks"]
+- ["C5Quick13Configuration", "afterEach"]
+- ["C5Quick13Configuration", "afterSuite"]
+- ["C5Quick13Configuration", "beforeEach"]
+- ["C5Quick13Configuration", "beforeSuite"]
+- ["C5Quick13Configuration", "deinit"]
+- ["C5Quick13Configuration", "exampleHooks"]
+- ["C5Quick13Configuration", "exclude"]
+- ["C5Quick13Configuration", "exclusionFilters"]
+- ["C5Quick13Configuration", "include"]
+- ["C5Quick13Configuration", "inclusionFilters"]
+- ["C5Quick13Configuration", "init"]
+- ["C5Quick13Configuration", "runAllWhenEverythingFiltered"]
+- ["C5Quick13Configuration", "suiteHooks"]
+- ["Ps28CustomDebugStringConvertible", "ExampleHooks"]
+- ["Ps28CustomDebugStringConvertible", "Filter"]
+- ["Ps28CustomDebugStringConvertible", "SuiteHooks"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "exampleHooks"]
+- !private ["Ps28CustomDebugStringConvertible", "exclusionFilters"]
+- ["Ps28CustomDebugStringConvertible", "filterFlags"]
+- ["Ps28CustomDebugStringConvertible", "focused"]
+- !private ["Ps28CustomDebugStringConvertible", "inclusionFilters"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "pending"]
+- ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "suiteHooks"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "append"]
+- ["Ps17CustomReflectable", "subscript"]
+- ["Ps23CustomStringConvertible", "ExampleHooks"]
+- ["Ps23CustomStringConvertible", "Filter"]
+- ["Ps23CustomStringConvertible", "SuiteHooks"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps23CustomStringConvertible", "exampleHooks"]
+- !private ["Ps23CustomStringConvertible", "exclusionFilters"]
+- ["Ps23CustomStringConvertible", "filterFlags"]
+- ["Ps23CustomStringConvertible", "focused"]
+- !private ["Ps23CustomStringConvertible", "inclusionFilters"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "pending"]
+- ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "suiteHooks"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Vs10Dictionary", "subscript"]
+- ["Ps9Equatable", "ExampleHooks"]
+- ["Ps9Equatable", "Filter"]
+- ["Ps9Equatable", "SuiteHooks"]
+- !private ["Ps9Equatable", "exampleHooks"]
+- !private ["Ps9Equatable", "exclusionFilters"]
+- ["Ps9Equatable", "filterFlags"]
+- ["Ps9Equatable", "focused"]
+- !private ["Ps9Equatable", "inclusionFilters"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "pending"]
+- !private ["Ps9Equatable", "suiteHooks"]
+- ["Ps9Equatable", ""]
+- ["C5Quick7Example", "filterFlags"]
+- !private ["C5Quick12ExampleHooks", "appendAfter"]
+- !private ["C5Quick12ExampleHooks", "appendBefore"]
+- ["C5Quick12ExampleHooks", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- ["C5Quick6Filter", "focused"]
+- ["C5Quick6Filter", "pending"]
+- ["Ps8Hashable", "ExampleHooks"]
+- ["Ps8Hashable", "Filter"]
+- ["Ps8Hashable", "SuiteHooks"]
+- !private ["Ps8Hashable", "exampleHooks"]
+- !private ["Ps8Hashable", "exclusionFilters"]
+- ["Ps8Hashable", "filterFlags"]
+- ["Ps8Hashable", "focused"]
+- !private ["Ps8Hashable", "inclusionFilters"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "pending"]
+- !private ["Ps8Hashable", "suiteHooks"]
+- ["Ps8Hashable", ""]
+- !private ["Ps17MutableCollection", "append"]
+- ["CSo8NSObject", "AfterExampleClosure"]
+- ["CSo8NSObject", "AfterExampleWithMetadataClosure"]
+- ["CSo8NSObject", "AfterSuiteClosure"]
+- ["CSo8NSObject", "BeforeExampleClosure"]
+- ["CSo8NSObject", "BeforeExampleWithMetadataClosure"]
+- ["CSo8NSObject", "BeforeSuiteClosure"]
+- ["CSo8NSObject", "ExampleFilter"]
+- ["CSo8NSObject", "ExampleHooks"]
+- ["CSo8NSObject", "Filter"]
+- ["CSo8NSObject", "SuiteHooks"]
+- ["CSo8NSObject", "afterEach"]
+- ["CSo8NSObject", "afterSuite"]
+- ["CSo8NSObject", "beforeEach"]
+- ["CSo8NSObject", "beforeSuite"]
+- ["CSo8NSObject", "exampleHooks"]
+- ["CSo8NSObject", "exclude"]
+- ["CSo8NSObject", "exclusionFilters"]
+- ["CSo8NSObject", "filterFlags"]
+- ["CSo8NSObject", "focused"]
+- ["CSo8NSObject", "include"]
+- ["CSo8NSObject", "inclusionFilters"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "pending"]
+- ["CSo8NSObject", "runAllWhenEverythingFiltered"]
+- ["CSo8NSObject", "suiteHooks"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "ExampleHooks"]
+- ["PSo16NSObjectProtocol", "Filter"]
+- ["PSo16NSObjectProtocol", "SuiteHooks"]
+- !private ["PSo16NSObjectProtocol", "exampleHooks"]
+- !private ["PSo16NSObjectProtocol", "exclusionFilters"]
+- ["PSo16NSObjectProtocol", "filterFlags"]
+- ["PSo16NSObjectProtocol", "focused"]
+- !private ["PSo16NSObjectProtocol", "inclusionFilters"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "pending"]
+- !private ["PSo16NSObjectProtocol", "suiteHooks"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps8Sequence", "append"]
+- ["Ps8Sequence", "subscript"]
+- !private ["C5Quick10SuiteHooks", "appendAfter"]
+- !private ["C5Quick10SuiteHooks", "appendBefore"]
+- ["C5Quick10SuiteHooks", "init"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- ["C5Quick12_ExampleBase", "filterFlags"]
+- ["C5Quick11_FilterBase", "focused"]
+- ["C5Quick11_FilterBase", "pending"]
+- ["Ps9_Hashable", "ExampleHooks"]
+- ["Ps9_Hashable", "Filter"]
+- ["Ps9_Hashable", "SuiteHooks"]
+- !private ["Ps9_Hashable", "exampleHooks"]
+- !private ["Ps9_Hashable", "exclusionFilters"]
+- ["Ps9_Hashable", "filterFlags"]
+- ["Ps9_Hashable", "focused"]
+- !private ["Ps9_Hashable", "inclusionFilters"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "pending"]
+- !private ["Ps9_Hashable", "suiteHooks"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "append"]
+- ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "append"]
+- ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps17_MutableIndexable", "append"]
+- !private ["Ps21_ObjectiveCBridgeable", "append"]
+- ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "C5Quick13Configuration"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Ps9Equatable"
+- "C5Quick7Example"
+- "C5Quick12ExampleHooks"
+- !private "Ps25ExpressibleByArrayLiteral"
+- "Ps30ExpressibleByDictionaryLiteral"
+- "C5Quick6Filter"
+- "Ps8Hashable"
+- !private "Ps17MutableCollection"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- "Ps8Sequence"
+- "C5Quick10SuiteHooks"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- "C5Quick12_ExampleBase"
+- "C5Quick11_FilterBase"
+- "Ps9_Hashable"
+- "Ps10_Indexable"
+- "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUISiriService.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/checkouts/Quick.git-2733117082000052066/Sources/QuickSpecBase/include/QuickSpecBase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTKVOExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSPredicateExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTDarwinNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTWaiter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/QuickSpecBase.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+interface-hash: "a32c32b712890181b2a8dcccb747d2bd"

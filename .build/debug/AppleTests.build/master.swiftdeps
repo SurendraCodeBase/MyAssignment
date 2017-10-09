@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "7834497f557c45ccd22f076c0b04bf54"
+build_time: [560901816, 62428000]
+inputs:
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day10Tests.swift": [560901360, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day1Tests.swift": [560901625, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Tests/AppleTests/day4Tests.swift": [560901624, 0]

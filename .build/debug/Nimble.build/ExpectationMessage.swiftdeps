@@ -1,0 +1,361 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ExpectationMessage"
+- "NMBExpectationMessage"
+provides-nominal:
+- "O6Nimble18ExpectationMessage"
+- "C6Nimble21NMBExpectationMessage"
+provides-member:
+- ["O6Nimble18ExpectationMessage", ""]
+- ["C6Nimble14FailureMessage", ""]
+- ["C6Nimble21NMBExpectationMessage", ""]
+- ["C6Nimble14FailureMessage", "toExpectationMessage"]
+- ["O6Nimble18ExpectationMessage", "toObjectiveC"]
+provides-dynamic-lookup:
+- "appendedBeNilHint"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "ExpectationMessage"
+- "FailureMessage"
+- "NMBExpectationMessage"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- !private "||"
+depends-member:
+- !private ["Ps9AnyObject", "FailureMessage"]
+- !private ["Ps9AnyObject", "NMBExpectationMessage"]
+- !private ["Ps9AnyObject", "_stringValueOverride"]
+- !private ["Ps9AnyObject", "actualValue"]
+- !private ["Ps9AnyObject", "appendDetails"]
+- !private ["Ps9AnyObject", "appendMessage"]
+- !private ["Ps9AnyObject", "expected"]
+- !private ["Ps9AnyObject", "extendedMessage"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "msg"]
+- !private ["Ps9AnyObject", "postfixActual"]
+- !private ["Ps9AnyObject", "postfixMessage"]
+- !private ["Ps9AnyObject", "stringValue"]
+- !private ["Ps9AnyObject", "userDescription"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "FailureMessage"]
+- !private ["Ps7CVarArg", "NMBExpectationMessage"]
+- !private ["Ps7CVarArg", "_stringValueOverride"]
+- !private ["Ps7CVarArg", "actualValue"]
+- !private ["Ps7CVarArg", "appendDetails"]
+- !private ["Ps7CVarArg", "appendMessage"]
+- !private ["Ps7CVarArg", "expected"]
+- !private ["Ps7CVarArg", "extendedMessage"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "msg"]
+- !private ["Ps7CVarArg", "postfixActual"]
+- !private ["Ps7CVarArg", "postfixMessage"]
+- !private ["Ps7CVarArg", "stringValue"]
+- !private ["Ps7CVarArg", "userDescription"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "FailureMessage"]
+- !private ["Ps28CustomDebugStringConvertible", "NMBExpectationMessage"]
+- !private ["Ps28CustomDebugStringConvertible", "_stringValueOverride"]
+- !private ["Ps28CustomDebugStringConvertible", "actualValue"]
+- !private ["Ps28CustomDebugStringConvertible", "appendDetails"]
+- !private ["Ps28CustomDebugStringConvertible", "appendMessage"]
+- !private ["Ps28CustomDebugStringConvertible", "expected"]
+- !private ["Ps28CustomDebugStringConvertible", "extendedMessage"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "msg"]
+- !private ["Ps28CustomDebugStringConvertible", "postfixActual"]
+- !private ["Ps28CustomDebugStringConvertible", "postfixMessage"]
+- !private ["Ps28CustomDebugStringConvertible", "stringValue"]
+- !private ["Ps28CustomDebugStringConvertible", "userDescription"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "FailureMessage"]
+- !private ["Ps23CustomStringConvertible", "NMBExpectationMessage"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_stringValueOverride"]
+- !private ["Ps23CustomStringConvertible", "actualValue"]
+- !private ["Ps23CustomStringConvertible", "appendDetails"]
+- !private ["Ps23CustomStringConvertible", "appendMessage"]
+- !private ["Ps23CustomStringConvertible", "expected"]
+- !private ["Ps23CustomStringConvertible", "extendedMessage"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "msg"]
+- !private ["Ps23CustomStringConvertible", "postfixActual"]
+- !private ["Ps23CustomStringConvertible", "postfixMessage"]
+- !private ["Ps23CustomStringConvertible", "stringValue"]
+- !private ["Ps23CustomStringConvertible", "userDescription"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "FailureMessage"]
+- !private ["Ps9Equatable", "NMBExpectationMessage"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "_stringValueOverride"]
+- !private ["Ps9Equatable", "actualValue"]
+- !private ["Ps9Equatable", "appendDetails"]
+- !private ["Ps9Equatable", "appendMessage"]
+- !private ["Ps9Equatable", "expected"]
+- !private ["Ps9Equatable", "extendedMessage"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "msg"]
+- !private ["Ps9Equatable", "postfixActual"]
+- !private ["Ps9Equatable", "postfixMessage"]
+- !private ["Ps9Equatable", "stringValue"]
+- !private ["Ps9Equatable", "userDescription"]
+- ["Ps9Equatable", ""]
+- ["O6Nimble18ExpectationMessage", "ExpectationMessage"]
+- ["O6Nimble18ExpectationMessage", "FailureMessage"]
+- ["O6Nimble18ExpectationMessage", "NMBExpectationMessage"]
+- ["O6Nimble18ExpectationMessage", "String"]
+- ["O6Nimble18ExpectationMessage", "appended"]
+- ["O6Nimble18ExpectationMessage", "appendedBeNilHint"]
+- ["O6Nimble18ExpectationMessage", "appends"]
+- ["O6Nimble18ExpectationMessage", "details"]
+- ["O6Nimble18ExpectationMessage", "expectedActualValueTo"]
+- ["O6Nimble18ExpectationMessage", "expectedCustomValueTo"]
+- ["O6Nimble18ExpectationMessage", "expectedMessage"]
+- ["O6Nimble18ExpectationMessage", "expectedTo"]
+- ["O6Nimble18ExpectationMessage", "fail"]
+- ["O6Nimble18ExpectationMessage", "prepended"]
+- ["O6Nimble18ExpectationMessage", "prepends"]
+- ["O6Nimble18ExpectationMessage", "replacedExpectation"]
+- ["O6Nimble18ExpectationMessage", "sampleMessage"]
+- ["O6Nimble18ExpectationMessage", "toObjectiveC"]
+- ["O6Nimble18ExpectationMessage", "toString"]
+- ["O6Nimble18ExpectationMessage", "update"]
+- ["O6Nimble18ExpectationMessage", "visitLeafs"]
+- ["O6Nimble18ExpectationMessage", "wrappedExpectation"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["C6Nimble14FailureMessage", "ExpectationMessage"]
+- !private ["C6Nimble14FailureMessage", "FailureMessage"]
+- !private ["C6Nimble14FailureMessage", "_stringValueOverride"]
+- !private ["C6Nimble14FailureMessage", "actualValue"]
+- !private ["C6Nimble14FailureMessage", "appendDetails"]
+- !private ["C6Nimble14FailureMessage", "appendMessage"]
+- !private ["C6Nimble14FailureMessage", "expected"]
+- !private ["C6Nimble14FailureMessage", "extendedMessage"]
+- !private ["C6Nimble14FailureMessage", "init"]
+- !private ["C6Nimble14FailureMessage", "postfixActual"]
+- !private ["C6Nimble14FailureMessage", "postfixMessage"]
+- !private ["C6Nimble14FailureMessage", "stringValue"]
+- ["C6Nimble14FailureMessage", "toExpectationMessage"]
+- !private ["C6Nimble14FailureMessage", "userDescription"]
+- !private ["Ps8Hashable", "FailureMessage"]
+- !private ["Ps8Hashable", "NMBExpectationMessage"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_stringValueOverride"]
+- !private ["Ps8Hashable", "actualValue"]
+- !private ["Ps8Hashable", "appendDetails"]
+- !private ["Ps8Hashable", "appendMessage"]
+- !private ["Ps8Hashable", "expected"]
+- !private ["Ps8Hashable", "extendedMessage"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "msg"]
+- !private ["Ps8Hashable", "postfixActual"]
+- !private ["Ps8Hashable", "postfixMessage"]
+- !private ["Ps8Hashable", "stringValue"]
+- !private ["Ps8Hashable", "userDescription"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["P6Nimble13NMBComparable", "init"]
+- ["C6Nimble21NMBExpectationMessage", "ExpectationMessage"]
+- ["C6Nimble21NMBExpectationMessage", "NMBExpectationMessage"]
+- ["C6Nimble21NMBExpectationMessage", "String"]
+- ["C6Nimble21NMBExpectationMessage", "appendedBeNilHint"]
+- ["C6Nimble21NMBExpectationMessage", "deinit"]
+- ["C6Nimble21NMBExpectationMessage", "init"]
+- !private ["C6Nimble21NMBExpectationMessage", "msg"]
+- ["C6Nimble21NMBExpectationMessage", "toSwift"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "ExpectationMessage"]
+- !private ["CSo8NSObject", "FailureMessage"]
+- ["CSo8NSObject", "NMBExpectationMessage"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "_stringValueOverride"]
+- !private ["CSo8NSObject", "actualValue"]
+- !private ["CSo8NSObject", "appendDetails"]
+- !private ["CSo8NSObject", "appendMessage"]
+- ["CSo8NSObject", "appendedBeNilHint"]
+- !private ["CSo8NSObject", "expected"]
+- !private ["CSo8NSObject", "extendedMessage"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "msg"]
+- !private ["CSo8NSObject", "postfixActual"]
+- !private ["CSo8NSObject", "postfixMessage"]
+- !private ["CSo8NSObject", "stringValue"]
+- ["CSo8NSObject", "toExpectationMessage"]
+- ["CSo8NSObject", "toSwift"]
+- !private ["CSo8NSObject", "userDescription"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "FailureMessage"]
+- !private ["PSo16NSObjectProtocol", "NMBExpectationMessage"]
+- !private ["PSo16NSObjectProtocol", "_stringValueOverride"]
+- !private ["PSo16NSObjectProtocol", "actualValue"]
+- !private ["PSo16NSObjectProtocol", "appendDetails"]
+- !private ["PSo16NSObjectProtocol", "appendMessage"]
+- !private ["PSo16NSObjectProtocol", "expected"]
+- !private ["PSo16NSObjectProtocol", "extendedMessage"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "msg"]
+- !private ["PSo16NSObjectProtocol", "postfixActual"]
+- !private ["PSo16NSObjectProtocol", "postfixMessage"]
+- !private ["PSo16NSObjectProtocol", "stringValue"]
+- !private ["PSo16NSObjectProtocol", "userDescription"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo19NSPasteboardReading", "init"]
+- !private ["PSo19NSPasteboardWriting", "init"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["Vs12StaticString", "init"]
+- !private ["SS", "init"]
+- !private ["P6Nimble27TestOutputStringConvertible", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "FailureMessage"]
+- !private ["Ps9_Hashable", "NMBExpectationMessage"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_stringValueOverride"]
+- !private ["Ps9_Hashable", "actualValue"]
+- !private ["Ps9_Hashable", "appendDetails"]
+- !private ["Ps9_Hashable", "appendMessage"]
+- !private ["Ps9_Hashable", "expected"]
+- !private ["Ps9_Hashable", "extendedMessage"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "msg"]
+- !private ["Ps9_Hashable", "postfixActual"]
+- !private ["Ps9_Hashable", "postfixMessage"]
+- !private ["Ps9_Hashable", "stringValue"]
+- !private ["Ps9_Hashable", "userDescription"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "O6Nimble18ExpectationMessage"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C6Nimble14FailureMessage"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "P6Nimble13NMBComparable"
+- "C6Nimble21NMBExpectationMessage"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo19NSPasteboardReading"
+- !private "PSo19NSPasteboardWriting"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Vs12StaticString"
+- !private "SS"
+- !private "P6Nimble27TestOutputStringConvertible"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUISiriService.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTKVOExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSPredicateExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTNSNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTDarwinNotificationExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestExpectation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTWaiter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Users/Surendra/Desktop/Apple/MyAssignment/.build/debug/QuickSpecBase.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+interface-hash: "9344915ec6ce328d38c2933fceb1f73b"

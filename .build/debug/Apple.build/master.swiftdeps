@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "70c9435a2f22f9a449339206e05c4eca"
+build_time: [560901815, 517357000]
+inputs:
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/BalanceBot.swift": [560545911, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Bot.swift": [560533188, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Direction.swift": [559022862, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Sector.swift": [560533188, 0]
+  "/Users/Surendra/Desktop/Apple/MyAssignment/Sources/Taxicab.swift": [560533188, 0]
